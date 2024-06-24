@@ -1,2 +1,3 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
-mysql:8 registry.cn-hangzhou.aliyuncs.com/leevny/mysql:8
+influxdb:1.8 registry.cn-hangzhou.aliyuncs.com/leevny/influxdb:1.8
+archguard/archguard-frontend:latest registry.cn-hangzhou.aliyuncs.com/leevny/archguard-frontend:latest
+archguard/archguard-backend:latest registry.cn-hangzhou.aliyuncs.com/leevny/archguard-backend:latest
