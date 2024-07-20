@@ -1,2 +1,1 @@
-
 kubesphere/elasticsearch-curator:v5.7.6 registry.cn-hangzhou.aliyuncs.com/leevny/elasticsearch-curator:v5.7.6
