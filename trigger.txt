@@ -1,4 +1,1 @@
-influxdb:1.8 registry.cn-hangzhou.aliyuncs.com/leevny/influxdb:1.8
-archguard/archguard-frontend:latest registry.cn-hangzhou.aliyuncs.com/leevny/archguard-frontend:latest
-archguard/archguard-backend:latest registry.cn-hangzhou.aliyuncs.com/leevny/archguard-backend:latest
-prom/prometheus:v2.28.1 registry.cn-hangzhou.aliyuncs.com/leevny/prometheus:v2.28.1
+kubesphere/elasticsearch-curator:v5.7.6 registry.cn-hangzhou.aliyuncs.com/leevny/elasticsearch-curator:v5.7.6
