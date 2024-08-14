@@ -1,1 +1,1 @@
-kubesphere/kubectl:v1.22.0 registry.cn-hangzhou.aliyuncs.com/leevny/kubectl:v1.22.0
+calico/kube-controllers:v3.23.2 registry.cn-beijing.aliyuncs.com/leevny/calico_kube-controllers:v3.23.2
