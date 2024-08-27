@@ -1,1 +1,1 @@
-busybox:latest registry.cn-hangzhou.aliyuncs.com/leevny/busybox:latest
+nvcr.io/nvidia/k8s-device-plugin:v0.14.1 registry.cn-hangzhou.aliyuncs.com/leevny/k8s-device-plugin:v0.14.1
