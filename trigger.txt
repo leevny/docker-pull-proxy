@@ -1,1 +1,1 @@
-nginx:stable-otel registry.cn-hangzhou.aliyuncs.com/leevny/nginx:stable-otel
+nginx:stable-perl registry.cn-hangzhou.aliyuncs.com/leevny/nginx:stable-perl
