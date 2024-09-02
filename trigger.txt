@@ -1,1 +1,1 @@
-ubuntu:latest registry.cn-hangzhou.aliyuncs.com/leevny/ubuntu:latest
+nginx:stable-otel registry.cn-hangzhou.aliyuncs.com/leevny/nginx:stable-otel
