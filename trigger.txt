@@ -1,1 +1,3 @@
-nginx:stable-perl registry.cn-hangzhou.aliyuncs.com/leevny/nginx:stable-perl
+pingcap/chaos-mesh:v2.0.2 registry.cn-hangzhou.aliyuncs.com/leevny/chaos-mesh:v2.0.2
+pingcap/chaos-daemon:v2.0.2 registry.cn-hangzhou.aliyuncs.com/leevny/chaos-daemon:v2.0.2 
+pingcap/chaos-dashboard:v2.0.2 registry.cn-hangzhou.aliyuncs.com/leevny/chaos-dashboard:v2.0.2
