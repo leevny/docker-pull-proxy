@@ -1,3 +1,1 @@
-pingcap/chaos-mesh:v2.0.7 registry.cn-hangzhou.aliyuncs.com/leevny/chaos-mesh:v2.0.7
-pingcap/chaos-daemon:v2.0.7 registry.cn-hangzhou.aliyuncs.com/leevny/chaos-daemon:v2.0.7
-pingcap/chaos-dashboard:v2.0.7 registry.cn-hangzhou.aliyuncs.com/leevny/chaos-dashboard:v2.0.7
+tomcat:9.0.93-jdk8-corretto registry.cn-hangzhou.aliyuncs.com/leevny/tomcat:9.0.93
