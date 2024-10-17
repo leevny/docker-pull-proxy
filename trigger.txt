@@ -1,10 +1,1 @@
 kubesphere/ks-installer:v3.3.2 registry.cn-hangzhou.aliyuncs.com/leevny/kubesphere/ks-installer:v3.3.2
-kubesphere/ks-console:v3.3.2 registry.cn-hangzhou.aliyuncs.com/leevny/kubesphere/ks-console:v3.3.2
-kubesphere/ks-controller-manager:v3.3.2 registry.cn-hangzhou.aliyuncs.com/leevny/kubesphere/ks-controller-manager:v3.3.2
-kubesphere/kubectl:v1.20.0 registry.cn-hangzhou.aliyuncs.com/leevny/kubesphere/kubectl:v1.20.0
-kubesphere/kubefed:v0.8.1 registry.cn-hangzhou.aliyuncs.com/leevny/kubesphere/kubefed:v0.8.1
-kubesphere/tower:v0.2.0 registry.cn-hangzhou.aliyuncs.com/leevny/kubesphere/tower:v0.2.0
-minio/minio:RELEASE.2019-08-07T01-59-21Z registry.cn-hangzhou.aliyuncs.com/leevny/minio/minio:RELEASE.2019-08-07T01-59-21Z
-minio/mc:RELEASE.2019-08-07T23-14-43Z registry.cn-hangzhou.aliyuncs.com/leevny/minio/mc:RELEASE.2019-08-07T23-14-43Z
-csiplugin/snapshot-controller:v4.0.0 registry.cn-hangzhou.aliyuncs.com/leevny/csiplugin/snapshot-controller:v4.0.0
-kubesphere/nginx-ingress-controller:v1.1.0 registry.cn-hangzhou.aliyuncs.com/leevny/kubesphere/nginx-ingress-controller:v1.1.0
