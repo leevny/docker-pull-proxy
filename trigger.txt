@@ -1,16 +1,1 @@
-kubesphere/kiali-operator:v1.38.1 registry.cn-hangzhou.aliyuncs.com/leevny/kiali-operator:v1.38.1
-kubesphere/kiali:v1.38 registry.cn-hangzhou.aliyuncs.com/leevny/kiali:v1.38
-busybox:1.31.1 registry.cn-hangzhou.aliyuncs.com/leevny/busybox:1.31.1
-nginx:1.14-alpine registry.cn-hangzhou.aliyuncs.com/leevny/nginx:1.14-alpine
-joosthofman/wget:1.0 registry.cn-hangzhou.aliyuncs.com/leevny/wget:1.0
-nginxdemos/hello:plain-text registry.cn-hangzhou.aliyuncs.com/leevny/hello:plain-text
-wordpress:4.8-apache registry.cn-hangzhou.aliyuncs.com/leevny/wordpress:4.8-apache
-mirrorgooglecontainers/hpa-example:latest registry.cn-hangzhou.aliyuncs.com/leevny/hpa-example:latest
-fluent/fluentd:v1.4.2-2.0 registry.cn-hangzhou.aliyuncs.com/leevny/fluentd:v1.4.2-2.0
-perl:latest registry.cn-hangzhou.aliyuncs.com/leevny/perl:latest
-kubesphere/examples-bookinfo-productpage-v1:1.16.2 registry.cn-hangzhou.aliyuncs.com/leevny/examples-bookinfo-productpage-v1:1.16.2
-kubesphere/examples-bookinfo-reviews-v1:1.16.2 registry.cn-hangzhou.aliyuncs.com/leevny/examples-bookinfo-reviews-v1:1.16.2
-kubesphere/examples-bookinfo-reviews-v2:1.16.2 registry.cn-hangzhou.aliyuncs.com/leevny/examples-bookinfo-reviews-v2:1.16.2
-kubesphere/examples-bookinfo-details-v1:1.16.2 registry.cn-hangzhou.aliyuncs.com/leevny/examples-bookinfo-details-v1:1.16.2
-kubesphere/examples-bookinfo-ratings-v1:1.16.3 registry.cn-hangzhou.aliyuncs.com/leevny/examples-bookinfo-ratings-v1:1.16.3
-weaveworks/scope:1.13.0 registry.cn-hangzhou.aliyuncs.com/leevny/scope:1.13.0
+kubesphere/kubectl:v1.22.0 registry.cn-hangzhou.aliyuncs.com/leevny/kubectl:v1.22.0
