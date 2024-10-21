@@ -1,1 +1,2 @@
-kubesphere/kubectl:v1.22.0 registry.cn-hangzhou.aliyuncs.com/leevny/kubectl:v1.22.0
+openebs/provisioner-localpv:3.3.0 registry.cn-hangzhou.aliyuncs.com/leevny/provisioner-localpv:3.3.0
+openebs/linux-utils:3.3.0 registry.cn-hangzhou.aliyuncs.com/leevny/linux-utils:3.3.0
