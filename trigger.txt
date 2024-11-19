@@ -1,4 +1,4 @@
 radondb/postgresql-repmgr:11.11.0-debian-r1 registry.cn-hangzhou.aliyuncs.com/leevny/postgresql-repmgr:11.11.0-debian-r1
 radondb/pgpool:4.2.2-debian-10-r1 registry.cn-hangzhou.aliyuncs.com/leevny/pgpool:4.2.2-debian-10-r1
-qingcloud/qingcloud-shell:10 registry.cn-hangzhou.aliyuncs.com/leevny/qingcloud-shell:10
-qingcloud/postgres-exporter:0.9.0-debian-10-r43 registry.cn-hangzhou.aliyuncs.com/leevny/postgres-exporter:0.9.0-debian-10-r43
+radondb/qingcloud-shell:10 registry.cn-hangzhou.aliyuncs.com/leevny/qingcloud-shell:10
+radondb/postgres-exporter:0.9.0-debian-10-r43 registry.cn-hangzhou.aliyuncs.com/leevny/postgres-exporter:0.9.0-debian-10-r43
